@@ -1,0 +1,11 @@
+.display-2 {
+    text-align: center;
+}
+.container {
+    background-color: blue;
+    color: white;
+}
+h3>a {
+    text-decoration: none;
+    color: rgb(245, 3, 3);
+}
